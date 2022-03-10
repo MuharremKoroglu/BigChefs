@@ -23,10 +23,11 @@ This app is a menu creator and shows how developers can use the Stateful Widget.
 
 <h2> Images <img src = "https://media2.giphy.com/media/psneItdLMpWy36ejfA/source.gif" width = 62px> </h2>
   <div class="row">
-<img width ='350px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Starbucks/main/Starbucks_main.png'>
-<img width ='350px' src 
-     ='https://raw.githubusercontent.com/MuharremKoroglu/Starbucks/main/starbucks_icon.png'>
+
+
+https://user-images.githubusercontent.com/68854616/157653935-4ded3d97-a9b5-49a8-8151-18b5e95ccf00.mp4
+
+
   </div>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'mailto:muharremkoroglu245@gmail.com'> <img align="center" width = '32px' align= 'center' src="https://raw.githubusercontent.com/MuharremKoroglu/MuharremKoroglu/main/gmail-logo-2561.svg"/></a>
